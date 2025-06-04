@@ -1,7 +1,7 @@
 Package: spatialGE
 Title: Visualization and Analysis of Spatial Heterogeneity in
         Spatially-Resolved Gene Expression
-Version: 1.2.1
+Version: 1.2.2
 Authors@R: c(
     person(given = "Oscar",
            family = "Ospina",
@@ -46,7 +46,7 @@ Suggests: curl, geoR, ggpubr, httr, janitor, kableExtra, knitr,
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2025-05-26 15:50:26 UTC; oospina1
+Packaged: 2025-06-03 14:47:52 UTC; oospina1
 Author: Oscar Ospina [aut, cre] (ORCID:
     <https://orcid.org/0000-0001-5986-4207>),
   Alex Soupir [aut] (ORCID: <https://orcid.org/0000-0003-1251-9179>),
@@ -55,4 +55,4 @@ Author: Oscar Ospina [aut, cre] (ORCID:
     function FindVariableFeatures)
 Maintainer: Oscar Ospina <oscar.ospina@jhmi.edu>
 Repository: CRAN
-Date/Publication: 2025-05-26 16:40:07 UTC
+Date/Publication: 2025-06-04 07:50:02 UTC

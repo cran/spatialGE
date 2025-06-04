@@ -1,7 +1,7 @@
-5d1a5ab7f6137bfbe0a5d569c733eebb *DESCRIPTION
+ba7805fa58a40f0d5fb2b1053e78e13f *DESCRIPTION
 bc490320565120e6bf1cb3ed1aeea0aa *LICENSE
 e788e82a4070582e0396b569a46376c6 *NAMESPACE
-b97874d252ce6ba6f04b11c120621cd5 *NEWS.md
+07f0a9b2c90d5e7c73d0620d70e6d0f9 *NEWS.md
 7e84d6a5a6c3aaa8c3a5c61903569347 *R/RcppExports.R
 a2d9b8cca3799eab3d2311b20ae5651e *R/STList.R
 81dfcd07d58a6f615d78c375bfa89966 *R/STclust.R
@@ -38,9 +38,9 @@ b0cc7c2be7329965c6e249e343f319b7 *R/utils.R
 b93a9f88667edb92f8913835b2279e43 *README.md
 ed0ce5c5a73d18bbfc63f32e439a0902 *build/vignette.rds
 385b91ad7d906f8c8fd07c2846885e3b *inst/COPYRIGHT
-abeedbfa07ca9683a3a76085640ebb7e *inst/doc/basic_functions_vignette.R
-1aad3a4ad615515ad4b7470d0045e385 *inst/doc/basic_functions_vignette.Rmd
-83d3d5be0af3daab5c42cca6b9ed1014 *inst/doc/basic_functions_vignette.html
+16ce21df89eb2323915184bf9c2b8d9c *inst/doc/basic_functions_vignette.R
+a2232a26769502a2b17429f27c68b806 *inst/doc/basic_functions_vignette.Rmd
+a06a4d4c9161c0b82db66ed949d0ccb4 *inst/doc/basic_functions_vignette.html
 71464f614392284205b152afdc6c4f72 *inst/err.csv
 eb13c4ac82e5a319906ef9e68b280fa7 *man/STclust.Rd
 1aa54acbf442ef894b8fd71a1524471b *man/STdiff.Rd
@@ -75,7 +75,7 @@ e0ed9aee192626b0a5054912b9b787c2 *src/RcppExports.cpp
 11c6a0884a61838a901e1996356f0f1b *src/spatialge_helpers.cpp
 30b79d6bb038a1b014ec8ee9229f2f9c *tests/testthat.R
 60fd91de80c132540e30f80b60bf2b5a *tests/testthat/test-tests.R
-1aad3a4ad615515ad4b7470d0045e385 *vignettes/basic_functions_vignette.Rmd
+a2232a26769502a2b17429f27c68b806 *vignettes/basic_functions_vignette.Rmd
 f9813b23dd4a7784f30292fb12a5ca84 *vignettes/img/dir_structure.png
 d749dce733ba15a23bc0c54b3a0e170f *vignettes/img/logo.png
 149dcf02c8374b4257e1949d5410d633 *vignettes/img/metadata_file.png
